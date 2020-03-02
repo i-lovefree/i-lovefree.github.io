@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>微风拂星河</title>
+  
+  <subtitle>星空彼岸</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-02T05:58:40.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>范志伟</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>万事开头难</title>
+    <link href="http://yoursite.com/2020/03/02/%E4%B8%87%E4%BA%8B%E5%BC%80%E5%A4%B4%E9%9A%BE/"/>
+    <id>http://yoursite.com/2020/03/02/%E4%B8%87%E4%BA%8B%E5%BC%80%E5%A4%B4%E9%9A%BE/</id>
+    <published>2020-03-02T05:56:06.876Z</published>
+    <updated>2020-03-02T05:58:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;欢迎阅读我的博客 &lt;a href=&quot;https://i-lovefree.github.io/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
